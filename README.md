@@ -15,7 +15,7 @@ The project includes:
 
 # Project Pipeline
 
-![Pipeline](images/llm_pipeline.png)
+![Pipeline](WhatsApp Image 2026-03-09 at 15.47.53.jpeg)
 
 The training pipeline consists of the following stages:
 
@@ -97,7 +97,7 @@ This allows large models to be fine-tuned even with **consumer-level GPUs or clo
 
 The following comparison illustrates how the fine-tuned model produces more empathetic responses.
 
-![Model Comparison](images/aligned_model_comparison.png)
+![Model Comparison](aligned model comparison.png)
 
 Example prompt:"I feel lonely and cannot sleep"
 Base model response:"Loneliness can occur due to stress or changes in life circumstances."
