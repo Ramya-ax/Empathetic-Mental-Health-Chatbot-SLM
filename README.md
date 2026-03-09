@@ -99,7 +99,7 @@ This allows large models to be fine-tuned even with **consumer-level GPUs or clo
 
 The following comparison illustrates how the fine-tuned model produces more empathetic responses.
 
-![Model Comparison]<img width="3000" height="1000" alt="aligned_model_comparison" src="https://github.com/user-attachments/assets/b6745724-b484-4fcf-bf40-e9c972a75f5c" />
+<img width="3000" height="1000" alt="aligned_model_comparison" src="https://github.com/user-attachments/assets/b6745724-b484-4fcf-bf40-e9c972a75f5c" />
 
 
 Example prompt:"I feel lonely and cannot sleep"
@@ -123,7 +123,7 @@ To quantitatively measure improvement, the models were evaluated using:
 
 Results:
 
-![Evaluation]<img width="3600" height="2000" alt="evaluation_results_professional" src="https://github.com/user-attachments/assets/80dfc7f0-f5ec-403f-9e80-ec0759c6b1ef" />
+<img width="3000" height="2000" alt="evaluation_results_professional" src="https://github.com/user-attachments/assets/80dfc7f0-f5ec-403f-9e80-ec0759c6b1ef" />
 
 
 Performance comparison:
