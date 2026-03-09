@@ -15,7 +15,8 @@ The project includes:
 
 # Project Pipeline
 
-![Pipeline](WhatsApp Image 2026-03-09 at 15.47.53.jpeg)
+![Pipeline]![WhatsApp Image 2026-03-09 at 15 47 53](https://github.com/user-attachments/assets/867b6b33-112a-4145-bebf-b7135ec74e29)
+
 
 The training pipeline consists of the following stages:
 
@@ -120,7 +121,8 @@ To quantitatively measure improvement, the models were evaluated using:
 
 Results:
 
-![Evaluation](images/evaluation_results_professional.png)
+![Evaluation]<img width="3600" height="2000" alt="evaluation_results_professional" src="https://github.com/user-attachments/assets/80dfc7f0-f5ec-403f-9e80-ec0759c6b1ef" />
+
 
 Performance comparison:
 
